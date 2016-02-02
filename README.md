@@ -5,3 +5,5 @@ BCMI Senior Design Project
  Andrew Jorquera
  Dominique Evans
 
+
+This is the readme file to be used.
